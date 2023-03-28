@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690569989037",
+    "project_id": "fir-phoneauthtuesday",
+    "storage_bucket": "fir-phoneauthtuesday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690569989037:android:802e6fb7a3ed4ffc81af24",
+        "android_client_info": {
+          "package_name": "com.example.firebasephoneauthtuesday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690569989037-8jvheuo18s05j9r3lrt2r113dom1nb7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasephoneauthtuesday",
+            "certificate_hash": "5ddd58ab447c2ca47e1913a96e8e3961b0c1dedc"
+          }
+        },
+        {
+          "client_id": "690569989037-dtrfv9ruo8ekb7mc0es8qklr7aiu6obh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOlBgHiEN7J7Of2MQ8t4bCFMbDwTEGzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690569989037-dtrfv9ruo8ekb7mc0es8qklr7aiu6obh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
